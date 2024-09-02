@@ -19,6 +19,6 @@ public class Main {
         System.out.println("---------------------------------");
 
         System.out.println("Thong tin cho may in kim: ");
-        laserPrintter.xuat();
+        dotprinter.xuat();
     }
 }
