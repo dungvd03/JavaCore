@@ -1,19 +1,20 @@
 package Bai1;
 
 import java.util.Date;
+import java.util.Scanner;
 
 public class SanPham {
-    protected String[] maSanPham;
-    protected String[] tenSanPham;
-    protected String[] ngaySanXuat;
-    protected int[] trongLuong;
-    protected String[] mauSac;
+    protected String maSanPham;
+    protected String tenSanPham;
+    protected String ngaySanXuat;
+    protected int trongLuong;
+    protected String mauSac;
 
 
     public SanPham() {
     }
 
-    public SanPham(String[] maSanPham, String[] tenSanPham, String[] ngaySanXuat, int[] trongLuong, String[] mauSac) {
+    public SanPham(String maSanPham, String tenSanPham, String ngaySanXuat, int trongLuong, String mauSac) {
         this.maSanPham = maSanPham;
         this.tenSanPham = tenSanPham;
         this.ngaySanXuat = ngaySanXuat;
@@ -21,43 +22,27 @@ public class SanPham {
         this.mauSac = mauSac;
     }
 
-    public String[] getMaSanPham() {
-        return maSanPham;
+    public void nhap(){
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Nhap ma san pham: ");
+        maSanPham = sc.nextLine();
+        System.out.print("Nhap ten san pham: ");
+        tenSanPham = sc.nextLine();
+        System.out.print("Nhap ngay san xuat: ");
+        ngaySanXuat = sc.nextLine();
+        System.out.print("Nhap trong luong: ");
+        trongLuong = sc.nextInt();
+        sc.nextLine();
+        System.out.print("Nhap mau sac: ");
+        mauSac = sc.nextLine();
     }
 
-    public void setMaSanPham(String[] maSanPham) {
-        this.maSanPham = maSanPham;
-    }
-
-    public String[] getTenSanPham() {
-        return tenSanPham;
-    }
-
-    public void setTenSanPham(String[] tenSanPham) {
-        this.tenSanPham = tenSanPham;
-    }
-
-    public String[] getNgaySanXuat() {
-        return ngaySanXuat;
-    }
-
-    public void setNgaySanXuat(String[] ngaySanXuat) {
-        this.ngaySanXuat = ngaySanXuat;
-    }
-
-    public int[] getTrongLuong() {
-        return trongLuong;
-    }
-
-    public void setTrongLuong(int[] trongLuong) {
-        this.trongLuong = trongLuong;
-    }
-
-    public String[] getMauSac() {
-        return mauSac;
-    }
-
-    public void setMauSac(String[] mauSac) {
-        this.mauSac = mauSac;
+    public void xuat(){
+        System.out.println("Ma san pham: " + maSanPham);
+        System.out.println("Ten san pham: " + tenSanPham);
+        System.out.println("Ngay san xuat: " + ngaySanXuat);
+        System.out.println("Trong luong: " + trongLuong + " kg");
+        System.out.println("Mau sac: " + mauSac);
     }
 }
