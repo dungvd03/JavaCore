@@ -9,6 +9,7 @@
           <node kind="schema">
             <name qname="admin" operator="@" />
             <name qname="config" operator="@" />
+            <name qname="employee_db" operator="@" />
             <name qname="event_management" operator="@" />
             <name qname="local" operator="@" />
           </node>
