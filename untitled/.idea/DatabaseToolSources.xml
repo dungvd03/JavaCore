@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolSources">
+    <data-source name="dung" uuid="acbbafa5-1356-481b-821f-2ea01bfef524" type="MONGO">
+      <base-info connect-type="DB_DEFAULT" product="Mongo DB" version="7.0.14" major-version="7" minor-version="0" jdbc-name="MongoDB JDBC Driver" jdbc-version="1.18" jdbc-major-version="1" jdbc-minor-version="18" />
+      <user-name />
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="admin" operator="@" />
+            <name qname="config" operator="@" />
+            <name qname="event_management" operator="@" />
+            <name qname="local" operator="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+      <url>mongodb://localhost:27017</url>
+      <remarks />
+      <vm-options />
+      <driver-info id="mongoDB" />
+      <ssh-properties enabled="false" />
+      <ssl-config enabled="false">
+        <uuid />
+        <caFile />
+        <clientCertificateFile />
+        <clientKeyFile />
+        <sslMode>REQUIRE</sslMode>
+      </ssl-config>
+    </data-source>
+  </component>
+</project>
