@@ -60,6 +60,9 @@ public class Main {
                     hienThiBangDiem();
                     break;
                 case 5:
+                    System.out.print("Nhap ma mon hoc can tim: ");
+                    String maMonTimKiem = scanner.next();
+                    hienThiSinhVienMon(maMonTimKiem);
                     break;
                 case 0:
                     break;

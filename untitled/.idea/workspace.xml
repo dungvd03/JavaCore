@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a846bf5-3d89-4fce-95c5-401ee281cc48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai1/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai1/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai2/CanBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai2/CongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai2/NhanSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai2/Phong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTap25_09/src/Bai2/XuongSX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/BillDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/RoomDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLyKhachSan/src/QLKhachSan/ServiceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTap/MultiThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTap/MultiThreadExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/EventService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/MongoDBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/PaymentTransaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/PaymentTransactionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../De13/src/TicketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/Thanh Vien Nhom.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/SV.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/khoiNghiepNhom2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/sach.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/src/Sach/DangNhap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/src/Sach/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/src/Sach/QuanLySach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraNhom2_PM26.15/khoiNghiepNhom2/src/Sach/Sach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/src/SinhVien/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Luyentap/src/SinhVien/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3/Buoi3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3/src/buoi3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ontap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ontap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ontap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ontap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ontap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ontap/ontap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DatabaseToolSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mongo_java_driver_3_12_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mongodb-settings-v1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MongoDBConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PerformanceReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WorkObjective.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LTDaLuong.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2oBO97Ma2ExLkn3q9ay6ypoAsDE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MultiThreadExample.executor": "Run",
+    "Application.MultiThreadExample1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MultiThreadExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaiTap.MultiThreadExample1" />
+      <module name="LTDaLuong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaiTap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LTDaLuong" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LTDaLuong" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiThreadExample1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a846bf5-3d89-4fce-95c5-401ee281cc48" name="Changes" comment="" />
+      <created>1730339349572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730339349572</updated>
+    </task>
+    <servers />
+  </component>
+</project>
